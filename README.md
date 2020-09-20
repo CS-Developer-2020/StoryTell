@@ -1,4 +1,8 @@
 Android Mobile application
+
+⭐ StoryTell ⭐ 
+©️ Alexey Shatalov & Yaron Romano ©️
+
 • Developing a client side in an Android environment, including building applications using OOP in Java.
 • Experience in UX/UI design.
 
