@@ -3,6 +3,14 @@ Android Mobile application
 ⭐ StoryTell ⭐ 
 ©️ Alexey Shatalov & Yaron Romano ©️
 
+
+Application for sharing photos with elements on social network. Allowing you to take photos and distribute them to users. There is an ability to interact with users through comments.
+UI: Material Design, Recycler View and Fragments.
+Server side: Firebase authentication, database and messaging. Runtime permissions for camera, phone gallery, notifications.
+
+
+
+
 • Developing a client side in an Android environment, including building applications using OOP in Java.
 • Experience in UX/UI design.
 
