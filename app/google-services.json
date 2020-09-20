@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1035969978326",
+    "firebase_url": "https://storytell-ba60d.firebaseio.com",
+    "project_id": "storytell-ba60d",
+    "storage_bucket": "storytell-ba60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035969978326:android:e87b391dc4f9ec46",
+        "android_client_info": {
+          "package_name": "com.example.user.storytell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035969978326-nitfgi2cq49cjou6lvsjvjtc6vc2pun7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.storytell",
+            "certificate_hash": "56af4f5ddf39c7d605a35b17df83c0856e370089"
+          }
+        },
+        {
+          "client_id": "1035969978326-re6077ta5aimutcb9scapc3re65ejuo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVWIvC052mzb7ZFvY_LfQo0mZrFs2w-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035969978326-re6077ta5aimutcb9scapc3re65ejuo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

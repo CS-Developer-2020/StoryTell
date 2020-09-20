@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="500dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+
+        <ImageView
+            android:id="@+id/popup_user_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:srcCompat="@drawable/user_icon" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+
+        <EditText
+            android:background="@drawable/popup_edittext_style"
+            android:id="@+id/popup_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:padding="5dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="Title"
+            />
+
+        <EditText
+            android:hint="Description"
+            android:background="@drawable/popup_edittext_style"
+            android:id="@+id/popup_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:layout_alignBottom="@+id/popup_title"
+            />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:background="@drawable/background_1"
+        android:id="@+id/popup_img"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="320dp"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:text="Click on me to add a picture!"
+
+        />
+    <ImageView
+        android:id="@+id/popup_add"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/popup_img"
+        android:layout_marginBottom="-28dp"
+        android:background="@drawable/circle_bg"
+        app:srcCompat="@drawable/ic_check_black_24dp" />
+
+
+    <ProgressBar
+        android:padding="2dp"
+        android:id="@+id/popup_progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle_bg"
+        android:visibility="invisible"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/popup_img"
+        android:layout_marginBottom="-28dp"
+        />
+
+</RelativeLayout>
