@@ -15,8 +15,11 @@
 
 <h1>What is the purpose of the game?</h1>
 Application for sharing photos with elements on a social network.
+<br>
 Allowing you to take pictures and distribute them to users.
+<br>
 There is an ability to communicate between users through comments. 
+<br>
 The main purpose of the app is to share experiences.
 
 <h1>WHAT CAN WE DO IN THIS APP?</h1>
