@@ -23,23 +23,15 @@ There is an ability to communicate between users through comments.
 The main purpose of the app is to share experiences.
 
 <h1>WHAT CAN WE DO IN THIS APP?</h1>
-📝 Write a note
+👩 Creating a User
 <br>
-📞 Call to academic
+📷 Make a photos
 <br>
-📆 Create an event in Calendar
+📋 Write comments
 <br>
-⏰ Make a reminder in alarm Clock
+📢 Chat online
 <br>
-🔎 Navigate to academic
-<br>
-✉️ Send an e-mail
-<br>
-📋 Write a massage
-<br>
-🌐 Enter to the web acadmic
-<br>
-👩 Add a contact
+📝 Share your content
 
 <h1>Screenshots:</h1>
 
