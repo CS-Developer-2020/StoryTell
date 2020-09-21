@@ -1,7 +1,8 @@
-Android Mobile application
+<h1> Android Mobile Application </h1>
 
-⭐ StoryTell ⭐ 
-©️ Alexey Shatalov & Yaron Romano ©️
+<b> ⭐📱 StoryTell 📱⭐ </b>
+<br>
+©️ <b> Alexey Shatalov & Yaron Romano</b> ©️
 
 
 Application for sharing photos with elements on social network. Allowing you to take photos and distribute them to users. There is an ability to interact with users through comments.
