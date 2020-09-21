@@ -2,28 +2,40 @@
 
 <b> ⭐📱 StoryTell 📱⭐ </b>
 <br>
-©️ <b> Alexey Shatalov & Yaron Romano</b> ©️
-
-
-Application for sharing photos with elements on social network. Allowing you to take photos and distribute them to users. There is an ability to interact with users through comments.
-UI: Material Design, Recycler View and Fragments.
-Server side: Firebase authentication, database and messaging. Runtime permissions for camera, phone gallery, notifications.
-
-
-
+©️ Alexey Shatalov & Yaron Romano ©️
 
 • Developing a client side in an Android environment, including building applications using OOP in Java.
+<br>
 • Experience in UX/UI design.
+<br>
+• UI: Material Design, Recycler View and Fragments.
+<br>
+• Server side: Firebase authentication, database and messaging. Runtime permissions for camera, phone gallery, notifications.
 
-WHAT CAN WE DO IN THIS APP?
+
+<h1>What is the purpose of the game?</h1>
+Application for sharing photos with elements on a social network.
+Allowing you to take pictures and distribute them to users.
+There is an ability to communicate between users through comments. 
+The main purpose of the app is to share experiences.
+
+<h1>WHAT CAN WE DO IN THIS APP?</h1>
 📝 Write a note
+<br>
 📞 Call to academic
+<br>
 📆 Create an event in Calendar
+<br>
 ⏰ Make a reminder in alarm Clock
+<br>
 🔎 Navigate to academic
+<br>
 ✉️ Send an e-mail
+<br>
 📋 Write a massage
+<br>
 🌐 Enter to the web acadmic
+<br>
 👩 Add a contact
 
 <h1>Screenshots:</h1>
